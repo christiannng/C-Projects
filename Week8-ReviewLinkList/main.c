@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main() {
-
+    //Init Commit Test
     // Create a node struct (object)
     struct Node {
         int value;
