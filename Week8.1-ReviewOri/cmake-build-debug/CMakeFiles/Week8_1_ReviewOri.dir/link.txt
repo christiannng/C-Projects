@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Week8_1_ReviewOri.dir/main.c.o  -o Week8_1_ReviewOri.exe -Wl,--out-implib,libWeek8_1_ReviewOri.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

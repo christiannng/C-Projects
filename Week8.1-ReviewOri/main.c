@@ -2,11 +2,12 @@
 #include <stdlib.h>
 
 int main() {
-    //Init Commit Test
+
     // Create a node struct (object)
     struct Node {
         int value;
         struct Node *nextNode;
+        struct Node *prevNode;  // modifying this to be a doubly linked list
     };
 
     // Setup the list
@@ -31,11 +32,13 @@ int main() {
         scanf("%d", &data);
 
         // Create a new node
-        struct Node *nodeToInsert = malloc(sizeof(struct Node));
+        struct Node *nodeToInsert =
+                malloc(sizeof(struct Node));
 
         // Setup the node
         nodeToInsert->value = data;
         nodeToInsert->nextNode = NULL;
+        nodeToInsert->prevNode = NULL;
 
         // do the nonsense to update your head pointers
         if (head == NULL) {
@@ -46,13 +49,17 @@ int main() {
         else {
             // this is NOT the first item
             curr->nextNode = nodeToInsert;
+
+            nodeToInsert->prevNode = curr;
+            nodeToInsert->nextNode = NULL;
+
             curr = nodeToInsert;
         }
 
 
-
-
-
+        // Ask user if they want to keep going
+        printf("Enter more data? (y/n): \n");
+        scanf("%s", &keyboardInput);
     }
 
 
@@ -60,10 +67,12 @@ int main() {
     // Print out all items in the list
     // - head pointer
     // - while loop to traverse the array
-
-
-
-
+    printf("Printing all items in the list:\n");
+    struct Node *p = head;
+    while (p != NULL) {
+        printf("Node value: %d\n", p->value);
+        p = p->nextNode;
+    }
 
     printf("Hello, World!\n");
     return 0;
