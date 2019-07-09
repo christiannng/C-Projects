@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/LinearSearch.dir/main.c.o  -o LinearSearch.exe -Wl,--out-implib,libLinearSearch.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
