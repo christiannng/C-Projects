@@ -18,7 +18,11 @@ int main() {
     // 4. do the search
     for(int i = 0; i < ARRAY_SIZE; i++){
         if(array[i] == searchValue)
+        {
             found = 1;
+            break;
+        }
+
     }
 
     // 5. Print the results
