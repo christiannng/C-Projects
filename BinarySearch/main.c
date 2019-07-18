@@ -44,7 +44,6 @@ int main() {
                 middle = (first + last) / 2;
             }
         }
-
     }
 
     // 6. Print the results

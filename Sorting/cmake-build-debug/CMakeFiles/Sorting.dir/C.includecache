@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/e/SchoolStuff/Semester 4 - Summer 2019/Data Structures & Algorithm Dev C - PROG20799/C-Projects/Sorting/SelectionSort.c
+stdio.h
+-
+stdlib.h
+-
+

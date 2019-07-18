@@ -1,0 +1,12 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /cygdrive/e/SchoolStuff/Semester 4 - Summer 2019/Data Structures & Algorithm Dev C - PROG20799/Assignment #3/VanHaNguyen_Assignment/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make.exe cmTC_a9a00/fast 
+/usr/bin/make -f CMakeFiles/cmTC_a9a00.dir/build.make CMakeFiles/cmTC_a9a00.dir/build
+make[1]: Entering directory '/cygdrive/e/SchoolStuff/Semester 4 - Summer 2019/Data Structures & Algorithm Dev C - PROG20799/Assignment #3/VanHaNguyen_Assignment/cmake-build-debug/CMakeFiles/CMakeTmp'
+make[1]: *** No rule to make target '/cygdrive/e/SchoolStuff/Semester 4 - Summer 2019/Data Structures & Algorithm Dev C - PROG20799/Assignment\', needed by 'CMakeFiles/cmTC_a9a00.dir/feature_tests.c.o'.  Stop.
+make[1]: Leaving directory '/cygdrive/e/SchoolStuff/Semester 4 - Summer 2019/Data Structures & Algorithm Dev C - PROG20799/Assignment #3/VanHaNguyen_Assignment/cmake-build-debug/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_a9a00/fast] Error 2
+
+
+

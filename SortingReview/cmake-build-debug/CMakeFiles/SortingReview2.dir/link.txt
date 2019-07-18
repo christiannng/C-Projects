@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/SortingReview2.dir/BubbleSort.c.o  -o SortingReview2.exe -Wl,--out-implib,libSortingReview2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

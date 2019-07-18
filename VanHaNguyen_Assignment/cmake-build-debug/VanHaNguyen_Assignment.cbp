@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="VanHaNguyen_Assignment"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/e/SchoolStuff/Semester 4 - Summer 2019/Data Structures &amp; Algorithm Dev C - PROG20799/Assignment #3/VanHaNguyen_Assignment/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/e/SchoolStuff/Semester 4 - Summer 2019/Data Structures &amp; Algorithm Dev C - PROG20799/Assignment #3/VanHaNguyen_Assignment/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/e/SchoolStuff/Semester 4 - Summer 2019/Data Structures &amp; Algorithm Dev C - PROG20799/Assignment #3/VanHaNguyen_Assignment/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SelectionSort_v2">
+				<Option output="/cygdrive/e/SchoolStuff/Semester 4 - Summer 2019/Data Structures &amp; Algorithm Dev C - PROG20799/Assignment #3/VanHaNguyen_Assignment/cmake-build-debug/SelectionSort_v2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/e/SchoolStuff/Semester 4 - Summer 2019/Data Structures &amp; Algorithm Dev C - PROG20799/Assignment #3/VanHaNguyen_Assignment/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 SelectionSort_v2"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SelectionSort_v2/fast">
+				<Option output="/cygdrive/e/SchoolStuff/Semester 4 - Summer 2019/Data Structures &amp; Algorithm Dev C - PROG20799/Assignment #3/VanHaNguyen_Assignment/cmake-build-debug/SelectionSort_v2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/e/SchoolStuff/Semester 4 - Summer 2019/Data Structures &amp; Algorithm Dev C - PROG20799/Assignment #3/VanHaNguyen_Assignment/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 SelectionSort_v2/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="VanHaNguyen_Assignment">
+				<Option output="/cygdrive/e/SchoolStuff/Semester 4 - Summer 2019/Data Structures &amp; Algorithm Dev C - PROG20799/Assignment #3/VanHaNguyen_Assignment/cmake-build-debug/VanHaNguyen_Assignment.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/e/SchoolStuff/Semester 4 - Summer 2019/Data Structures &amp; Algorithm Dev C - PROG20799/Assignment #3/VanHaNguyen_Assignment/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 VanHaNguyen_Assignment"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="VanHaNguyen_Assignment/fast">
+				<Option output="/cygdrive/e/SchoolStuff/Semester 4 - Summer 2019/Data Structures &amp; Algorithm Dev C - PROG20799/Assignment #3/VanHaNguyen_Assignment/cmake-build-debug/VanHaNguyen_Assignment.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/e/SchoolStuff/Semester 4 - Summer 2019/Data Structures &amp; Algorithm Dev C - PROG20799/Assignment #3/VanHaNguyen_Assignment/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 VanHaNguyen_Assignment/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SelectionSort_v1">
+				<Option output="/cygdrive/e/SchoolStuff/Semester 4 - Summer 2019/Data Structures &amp; Algorithm Dev C - PROG20799/Assignment #3/VanHaNguyen_Assignment/cmake-build-debug/SelectionSort_v1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/e/SchoolStuff/Semester 4 - Summer 2019/Data Structures &amp; Algorithm Dev C - PROG20799/Assignment #3/VanHaNguyen_Assignment/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 SelectionSort_v1"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SelectionSort_v1/fast">
+				<Option output="/cygdrive/e/SchoolStuff/Semester 4 - Summer 2019/Data Structures &amp; Algorithm Dev C - PROG20799/Assignment #3/VanHaNguyen_Assignment/cmake-build-debug/SelectionSort_v1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/e/SchoolStuff/Semester 4 - Summer 2019/Data Structures &amp; Algorithm Dev C - PROG20799/Assignment #3/VanHaNguyen_Assignment/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 SelectionSort_v1/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/e/SchoolStuff/Semester\ 4\ -\ Summer\ 2019/Data\ Structures\ &amp;\ Algorithm\ Dev\ C\ -\ PROG20799/Assignment\ #3/VanHaNguyen_Assignment/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/e/SchoolStuff/Semester 4 - Summer 2019/Data Structures &amp; Algorithm Dev C - PROG20799/Assignment #3/VanHaNguyen_Assignment/SelectionSort-v1.c">
+			<Option target="SelectionSort_v1"/>
+		</Unit>
+		<Unit filename="/cygdrive/e/SchoolStuff/Semester 4 - Summer 2019/Data Structures &amp; Algorithm Dev C - PROG20799/Assignment #3/VanHaNguyen_Assignment/SelectionSort-v2.c">
+			<Option target="SelectionSort_v2"/>
+		</Unit>
+		<Unit filename="/cygdrive/e/SchoolStuff/Semester 4 - Summer 2019/Data Structures &amp; Algorithm Dev C - PROG20799/Assignment #3/VanHaNguyen_Assignment/main.c">
+			<Option target="VanHaNguyen_Assignment"/>
+		</Unit>
+		<Unit filename="/cygdrive/e/SchoolStuff/Semester 4 - Summer 2019/Data Structures &amp; Algorithm Dev C - PROG20799/Assignment #3/VanHaNguyen_Assignment/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

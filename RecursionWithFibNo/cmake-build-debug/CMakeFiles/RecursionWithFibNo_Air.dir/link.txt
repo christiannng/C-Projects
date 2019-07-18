@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/RecursionWithFibNo_Air.dir/fibAir.c.o  -o RecursionWithFibNo_Air.exe -Wl,--out-implib,libRecursionWithFibNo_Air.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

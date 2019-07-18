@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/SelectionSort_v1.dir/SelectionSort-v1.c.o  -o SelectionSort_v1.exe -Wl,--out-implib,libSelectionSort_v1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

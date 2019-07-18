@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/BubbleSort_v2.dir/BubbleSort_v2.c.o  -o BubbleSort_v2.exe -Wl,--out-implib,libBubbleSort_v2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
