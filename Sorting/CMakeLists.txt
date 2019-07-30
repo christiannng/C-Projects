@@ -4,3 +4,4 @@ project(Sorting C)
 set(CMAKE_C_STANDARD 99)
 
 add_executable(Sorting main.c SelectionSort.c)
+add_executable(MergeSort MergeSort.c)
